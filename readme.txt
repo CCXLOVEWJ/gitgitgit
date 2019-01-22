@@ -4,3 +4,4 @@ git has a mutable index called stage
 git tracks changed of files
 create new branch dev
 yes, create new branch featurel
+new info was created
