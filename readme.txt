@@ -3,4 +3,4 @@ git is a free software distributed under the GPL
 git has a mutable index called stage
 git tracks changed of files
 create new branch dev
-Did create new branch featurel?
+yes, create new branch featurel
